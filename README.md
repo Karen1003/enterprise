@@ -1,8 +1,10 @@
-# 求職評價網站
-## 使用技術
-- 前端使用html/css
-- 後端使用SQL建立資料庫
-## 功能
-- 註冊帳號及登入
-- 登入即可撰寫求職公司評價及在他人文章下評論
-- 未登入訪客可搜尋公司評價，但不可撰寫貼文及評論
+# Website design for people who are finding job
+### The function of the website is for people can comment their interview experiences and opinions of certain company
+## technique
+- frontend:html/css
+- backend: SQL+PHP
+## function
+- apply for an account and log in
+- people can create a new post ot comment under other's post after after logging in
+- filter the post by company's name
+- people who don't have account still can review the post but can't create post or comment
