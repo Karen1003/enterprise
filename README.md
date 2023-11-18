@@ -1,5 +1,6 @@
 # Website design for people who are finding job
 ### The function of the website is for people can comment their interview experiences and opinions of certain company
+### The idea came from https://www.qollie.com/
 ## technique
 - frontend:html/css
 - backend: SQL+PHP
